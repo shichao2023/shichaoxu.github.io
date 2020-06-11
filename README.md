@@ -58,7 +58,7 @@ Advisor: Jifeng Dai
 
 #### Brain-Like Computing and Machine Intelligence Laboratory, Shanghai Jiao Tong University, China
 
-Research Assistant • Jul. 2016 to Jun. 2017
+Research Assistant • Jul. 2016 to Jun. 2018
 
 Advisor: Professor Liqing Zhang
 
