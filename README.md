@@ -1,9 +1,3 @@
-<style>
-img{
-    padding-left: 20%;
-}
-</style>
-
 
 <img src="https://github.com/shichao2023/shichaoxu.github.io/blob/master/picture.jpg" width = "200" height = "230" alt="" align=left />
 
