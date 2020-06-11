@@ -1,5 +1,5 @@
 
-<img src="https://github.com/906476903/shichaoxu.github.io/blob/master/picture.png" width = "210" height = "280" alt="" align=left />
+<img src="https://github.com/shichao2023/shichaoxu.github.io/blob/master/picture.jpg" width = "210" height = "280" alt="" align=left />
 
 
 # Shichao Xu
